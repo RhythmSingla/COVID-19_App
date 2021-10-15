@@ -33,3 +33,5 @@ HomePage  |  Statewise Info |  District Info (Eg Rajasthan) |
 
 ## License
 The application is available to the public strictly for educational and research purposes only.
+
+## UPDATE: API IS NOT WORKING CURRENTLY
